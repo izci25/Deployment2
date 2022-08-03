@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>emailflow</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <height>600</height>
+    <linkType>url</linkType>
+    <masterLabel>emailflow</masterLabel>
+    <openType>sidebar</openType>
+    <protected>false</protected>
+    <url>/flow/Coklu_Email_gonderme_Flowu?varaccountId={!Account.Id}&amp;retURL=001?fcf=00B8d000005C7BREA0</url>
+</WebLink>
